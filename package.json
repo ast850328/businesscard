@@ -1,0 +1,23 @@
+{
+  "name": "safefly",
+  "version": "1.1.0",
+  "description": "SafeFly (@ast850328)'s business card",
+  "main": "./bin/card.js",
+  "bin": {
+    "safefly": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ast850328/businesscard.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "SafeFly",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^3.0.0"
+  }
+}
